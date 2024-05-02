@@ -1,2 +1,3 @@
 # Tkinter_Student_Course_Management-
-Ignore the python.py file outside tkinter folder
+Student and Course management project made in tkinter with mysql database
+
