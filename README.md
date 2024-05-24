@@ -1,3 +1,3 @@
 # Tkinter_Student_Course_Management-
-Student and Course management project made in tkinter with mysql database
+A Python GUI application using Tkinter for managing courses and students, connected to a MySQL database. Users can add new courses and students, and view detailed information about students and their enrolled courses.
 
